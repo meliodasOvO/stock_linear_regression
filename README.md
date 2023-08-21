@@ -7,6 +7,6 @@ The time scale of the next two years and 24 months is predicted.
 
 ## develop environment path
 base Python lib
-1.Numpy
-2.mulplot
-3.sklearn
+* Numpy
+* mulplot
+* sklearn
